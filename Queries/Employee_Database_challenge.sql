@@ -37,3 +37,7 @@ select distinct on (e.emp_no) e.emp_no, e.first_name, e.last_name, e.birth_date,
 	and (e.birth_date between '1965-01-01' and '1965-12-31')
 	order by e.emp_no;
 	
+-- Summary extra query
+select count(emp_no) from unique_titles;
+
+select count(emp_no) from mentorship_elegibility;
