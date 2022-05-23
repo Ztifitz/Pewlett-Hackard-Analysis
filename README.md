@@ -18,6 +18,7 @@ As some of our employees approach retirement age at Pewlett Hackard, HR decided 
 ## Summary
 
 In total, we will need to replace 72,458 positions in our offices worldwide. This will be a difficult task for the HR team that need to be considered soon.
+
 ![image](https://user-images.githubusercontent.com/101848882/169735421-5a1b421e-f10c-4d4f-a678-e7db049dcddd.png)
 
 If only the eligible to be montored are considered, we would need to keep 1,549 employees from the retirement pool half-time. Maybe a poll to know which of them want to retire now and which want to stay half-time is in order to determine how to proceed with that proposal.
